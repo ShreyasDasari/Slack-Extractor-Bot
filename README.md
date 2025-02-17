@@ -106,6 +106,10 @@ Your output file `extracted-links.csv` will look like this:
 
 Each row represents a Slack user and all Google Sheets links they have shared.  
 
+Glimpse of an actual Output
+
+![Slack-Bot](./Slack-Bot-Output.png)
+
 ---
 
 ## 🔄 **How Can Others Make Use of This?**
